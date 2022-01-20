@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sepehrsafa
-- 👀 An ambitious student with a passion for computer science and business. My field of interest lies at the intersection of Artificial Intelligence and Web Development
+- 👀 An ambitious student with a passion for software engineering and business.
 - 💬 Tools used: Python, Django, PostgreSQL, Redis, RESTful API, JavaScript, Java, HTML, CSS
 - 📫 You can reach me at sepehr.safa@ryerson.ca
 
